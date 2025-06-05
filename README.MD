@@ -21,7 +21,7 @@ El proyecto utiliza las siguientes tecnologías:
 ## Video Instalaciòn
 
 Puedes ver la instalacion en video del proyecto aquí:  
-[https://youtu.be/qNWZaNM7Z58](https://youtu.be/qNWZaNM7Z58)
+[![Ver video en YouTube](https://img.youtube.com/vi/qNWZaNM7Z58/0.jpg)](https://youtu.be/qNWZaNM7Z58)
 
 
 ## Instalación
