@@ -18,9 +18,9 @@ El proyecto utiliza las siguientes tecnologías:
 - Pydantic
 - Uvicorn
 
-## Video Instalaciòn
+## Video Instalación
 
-Puedes ver la instalacion en video del proyecto aquí:  
+Puedes ver la instalación en video del proyecto aquí:  
 [![Ver video en YouTube](https://img.youtube.com/vi/qNWZaNM7Z58/0.jpg)](https://youtu.be/qNWZaNM7Z58)
 
 
