@@ -18,6 +18,12 @@ El proyecto utiliza las siguientes tecnologías:
 - Pydantic
 - Uvicorn
 
+## Video Instalaciòn
+
+Puedes ver la instalacion en video del proyecto aquí:  
+[https://youtu.be/qNWZaNM7Z58](https://youtu.be/qNWZaNM7Z58)
+
+
 ## Instalación
 
 1. Clona este repositorio:
