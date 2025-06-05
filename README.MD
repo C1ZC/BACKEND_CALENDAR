@@ -23,6 +23,7 @@ El proyecto utiliza las siguientes tecnologías:
 1. Clona este repositorio:
 ```bash
 git clone https://github.com/C1ZC/BACKEND_CALENDAR.git
+cd BACKEND_CALENDAR
 ```
 
 2. Crea un entorno virtual (opcional pero recomendado):
